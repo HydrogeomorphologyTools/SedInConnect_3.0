@@ -1,7 +1,7 @@
 # SedInConnect 3.0
 
 **Sediment Connectivity Index (IC) Calculation Tool**  
-*Developed by CNR-IRPI Padova (Italy)*
+*Developed by CNR-IRPI Padova (Italy) in the framework of PRIN 2022 MORPHEUS Project, financed by Next Gen EU, MUR*
 
 ![SedInConnect Banner](logo.png)
 
@@ -70,5 +70,5 @@ You can download the pre-compiled `SedInConnect_3_0.exe` from the [Releases](htt
 
 ---
 **Authors:** Stefano Crema & Marco Cavalli  
-**Project:** MORPHEUS  
+**Project:** PRIN 2022 MORPHEUS Project, financed by Next Gen EU  
 **Institution:** CNR-IRPI, Padova, Italy
