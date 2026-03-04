@@ -3,7 +3,9 @@
 **Sediment Connectivity Index (IC) Calculation Tool**  
 *Developed by CNR-IRPI Padova (Italy)*
 
-![SedInConnect Banner](combined_logo.png)
+<p align="center">
+  <img src="combined_logo.png" alt="SedInConnect Banner">
+</p>
 
 ## Overview
 
