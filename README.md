@@ -9,7 +9,7 @@
 
 ## Overview
 
-SedInConnect 3.0 is a professional geomorphometric tool designed to quantify sediment connectivity in catchments. Based on the methodology by **Cavalli et al. (2013)**, it calculates the Index of Connectivity (IC) to assess the potential for sediment transfer from source areas to specified targets.
+SedInConnect 3.0 is a geomorphometric tool designed to quantify sediment connectivity in catchments. Based on the methodology by **Cavalli et al. (2013)**, it calculates the Index of Connectivity (IC) to assess the potential for sediment transfer from source areas to specified targets.
 
 <p align="center">
   <img src="screen.png" width="800" alt="SedInConnect 3.0 GUI Screenshot">
@@ -18,7 +18,7 @@ SedInConnect 3.0 is a professional geomorphometric tool designed to quantify sed
 </p>
 
 ### Key Features
-- **Professional Modular Architecture:** Clean, maintainable Python structure.
+- **Modular Architecture:** Clean, maintainable Python structure.
 - **High Performance:** Optimized 2D convolution for fast surface roughness computation.
 - **Large File Support:** Efficiently processes high-resolution DTMs.
 - **Dual Mode:** Full modern GUI for interactive use and a powerful CLI for automation.
